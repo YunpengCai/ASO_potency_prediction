@@ -1,0 +1,6 @@
+Positive motif: CCAC-1, TCCC-2, ACTC-3, GCCA-4 and CTCT-5
+Negative motif: GGGG-6, ACTG-7, AAA-8 and TAA-9
+GC content:　40~60%
+ASO and mRNA should be ΔG°37 ≥ −8 kcal/mol
+only have C and T with palmitoylation
+With palm: 1, without palm: 0
